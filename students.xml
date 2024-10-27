@@ -1,0 +1,23 @@
+<students>
+ <student>
+   <SLNO> 23 </SLNO>
+   <firtsName> john  </firstName>
+   <LastName>carter </LastName>
+   <ADMISIONDATE> 25/12/2015 </ADMISSION>
+ </student>
+
+ <student> 
+   <SLNO>29 </SLNO>
+   <FirstName> Bob </Firstname>
+   <LastName> Marshal </LastName>
+   <ADMISSIONDATE> !3/01/1999 </ADMISSIONDATE>
+ </student>
+
+ <student>
+   <SLNO> 35 </SLNO>
+   <FirstName> clark </clark>
+   <LastName> kent </LastName>
+   <ADMISIONDATE> 17/06/2005 </ADMISSIONDATE>
+  </student>
+
+</students>
