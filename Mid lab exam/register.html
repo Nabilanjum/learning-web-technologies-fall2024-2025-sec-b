@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>Register Page</title>
+</style>
+</head>
+<body>
+<form method="post" action="registercheck.php">
+<fieldset>
+<label for="username">Username:</label>
+<input type="text" id="username" name="username" required 
+                   pattern="[a-zA-Z0-9]+" 
+                   placeholder="Enter a unique username" />
+</fieldset>
+<fieldset>
+<label for="password">Password:</label>
+<input type="password" id="password" name="password" required 
+                   placeholder="Enter your password" />
+</fieldset>
+<fieldset>
+<label for="confirmpassword">Confirm Password:</label>
+<input type="password" id="confirmpassword" name="confirmpassword" required 
+                   placeholder="Re-enter your password" />
+</fieldset>
+<input type="submit" name="submit" value="Register" />
+</form>
+</body>
+</html>
